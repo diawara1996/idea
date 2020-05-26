@@ -1,0 +1,2 @@
+# idea
+logiciel idea64
